@@ -20,6 +20,16 @@ A pattern is a reason to reread a sentence, not to delete it. A contrast, a colo
 - "Two features", "in two ways", "in three ways", "Two settings" used as a drumroll: drop the count, or keep it only when the list follows at once and the count is right ("three building blocks" listed four; it became "four features").
 - Rhetorical colons ("but no further:"): rewrite as one plain sentence.
 
+**Announcing topic sentences (§4, §25).** The commonest tell to survive a word-level pass. The sentence promises content instead of giving it: it sorts results into kinds, says they "differ", "matter" or "depend", or points at a step or section. Delete it and open the paragraph with its first concrete claim. Real fixes from the NSP paper (Farkas and Jakab, November 2026):
+- "Such priors do different things depending on what the data already say.": deleted; the paragraph now opens "The narrative on the 2021--2023 surge sets the split between supply and demand at one half without changing the fit."
+- "Outside information on these properties can be brought in directly.": deleted; the next sentence says how.
+- "That step comes from the structural VAR literature.": the paragraph opens "In structural VARs, Antol\x27in-D\x27iaz and Rubio-Ram\x27irez restrict ..."
+- "These are the joint implications of priors that look reasonable one at a time.": became "Priors that look reasonable one at a time thus allow a wide range of transmission, as Del Negro and Schorfheide point out."
+- "The likelihood says little about X, and the priors say little more.": an echo built for rhythm; state the fact ("two modes with slopes a factor of two apart fit equally well").
+- "This section derives ...", "This appendix describes ...": cut; the first equation or claim follows.
+- "In each case the comparison that tells what the prior did is ...": became "In each case we measure the effect of the prior against the posterior without it."
+Test: if the sentence could open a paragraph in a different paper, it is staged.
+
 **Cleft and saying forms (§3, §4).**
 - "What decides ... is", "is what makes", "what matters is ... whatever its form", "is part of the answer", "The data suggest that the spread matters": say who does what. "Cash protects the lender" beats "What protects the lender is cash."
 
