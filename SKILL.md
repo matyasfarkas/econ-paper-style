@@ -24,7 +24,7 @@ If the user gives a writing sample, such as an earlier draft in the target voice
 
 ## Structure
 
-- **Abstract.** About 150 words, no citations. Give the question, the mechanism in one sentence, and the main magnitudes.
+- **Abstract.** Short: about 80 words, never more than 120, no citations. Give the question, the method or mechanism in one sentence, and one or two main magnitudes. Cut everything else; detail belongs in the introduction.
 - **Introduction.** Open with facts or a short quotation from a primary source, then the question and the answer in one contribution sentence. Follow with the model in a paragraph, then the results as short paragraphs that each open with an italic label (`\emph{Monetary policy.}`), then policy, the related literature told as a story, and a roadmap that is specific to the paper. Keep the introduction qualitative; numbers belong in the abstract and the results sections. (The econ-write guide puts magnitudes in the introduction; this skill keeps them out.)
 - **Thesis.** State it in one contribution sentence. The abstract and the introduction may share it word for word; the conclusion restates it in new words. Do not add an "Our contribution" paragraph that repeats it, and state the mechanism at most once per section.
 - **Conclusion.** Under one page. Restate the result in new words, give the implications, and state the limitations flatly, each with a concrete extension and a citation where one exists. It does not echo the abstract.
@@ -35,7 +35,7 @@ If the user gives a writing sample, such as an earlier draft in the target voice
 - Define plain names once and keep them ("We call the entrepreneurs firms").
 - Write "households and firms", not "agents".
 - Use "we" for the authors. Use the present tense for model results and the past tense for history.
-- Every topic sentence states content. There are no staged openers, no one-line closers and no headings that announce a contrast.
+- Every topic sentence states content: a result, a fact or what we do. A sentence that announces that something is coming, sorts results into kinds, or says that things "differ", "matter" or "depend" without saying how is a staged topic sentence; delete it and open with the first concrete claim (see "Announcing topic sentences" in `references/patterns.md`). There are no one-line closers and no headings that announce a contrast.
 - No em dashes (`---` or `—`). Use a comma, a semicolon, parentheses or two sentences. En dashes are for ranges only (`2000--01`).
 - Put no evaluative adjective in front of a number. Compare with "against": "output falls x percent, against y percent in the benchmark".
 
